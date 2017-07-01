@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:19:33</date>
+  <millis>1497633573573</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: text (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:20:15</date>
+  <millis>1497633615652</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: text (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:22:29</date>
+  <millis>1497633749827</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: C:\Users\hieunm\workspace\TestLamdatext (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:22:50</date>
+  <millis>1497633770153</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: C:\Users\hieunm\workspace\TestLamdatext (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:23:21</date>
+  <millis>1497633801362</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: C:\Users\hieunm\workspace\TestLamdatext (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:23:57</date>
+  <millis>1497633837413</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: C:\Users\hieunm\workspace\TestLamdatext (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:26:33</date>
+  <millis>1497633993200</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2017-06-16T12:26:33</date>
+  <millis>1497633993320</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClassMyBuff</class>
+  <method>lambda$1</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:26:47</date>
+  <millis>1497634007364</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2017-06-16T12:26:47</date>
+  <millis>1497634007436</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>prob2.MyClassMyBuff</class>
+  <method>lambda$1</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
