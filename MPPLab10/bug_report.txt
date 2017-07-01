@@ -1,0 +1,20 @@
+Tom Jones
+reportedBy: Corazza
+classname: @lesson10.labs.prob2.bugreporter.BugReport(severity=0, description=computePerimeter incorrect, reportedBy=Corazza, assignedTo=Tom Jones)
+description: computePerimeter incorrect
+severity: 0
+Tom Jones
+reportedBy: Corazza
+classname: @lesson10.labs.prob2.bugreporter.BugReport(severity=1, description=, reportedBy=Corazza, assignedTo=Tom Jones)
+description: 
+severity: 1
+Joe Smith
+reportedBy: Corazza
+classname: @lesson10.labs.prob2.bugreporter.BugReport(severity=1, description=Should use Logger, reportedBy=Corazza, assignedTo=Joe Smith)
+description: Should use Logger
+severity: 1
+Joe Smith
+reportedBy: Corazza
+classname: @lesson10.labs.prob2.bugreporter.BugReport(severity=2, description=computePerimeter incorrect, reportedBy=Corazza, assignedTo=Joe Smith)
+description: computePerimeter incorrect
+severity: 2
