@@ -1,0 +1,3 @@
+Part C: 
+The problem in this part is because of the method containsKey(Object object) in class HashMap<E>. 
+Since this method uses hashcode to compare object; therefore, different object even with the same value will always return false. 

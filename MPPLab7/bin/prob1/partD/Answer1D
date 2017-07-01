@@ -1,0 +1,3 @@
+Part D: 
+The problem in this part is because of the method equals(Object object) which is implemented in class Employee. 
+The implementation in this method used “instance of” which bring the result to false
