@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-16T12:00:56</date>
+  <millis>1497632456581</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: text (The system cannot find the file specified)</message>
+</record>
+</log>
